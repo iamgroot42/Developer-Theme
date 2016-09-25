@@ -1,12 +1,4 @@
-<a href="http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/" target="_blank"><img src="http://themes.3rdwavemedia.com/wp-content/uploads/2014/07/Responsive-HTML5-CSS3-Website-Template-for-Developers.png" alt="Developer Theme" width="750" /></a>
-
-##Theme Details & Demo
-
-**Demo:** http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/
-
-Developer theme is a free responsive website template designed to **help developers promote their work**. 
-It can be used as a **professional portal** to your other online portfolios or websites (eg. Linkedin, CoderWall, Blog, GitHub etc) **in a modular fashion**. 
-The template comes with all of the **source LESS files included** so the styling/colour can easily be customised to your taste.
+A basic home-page.
 
 ##Author & License
 
@@ -23,21 +15,6 @@ If you'd like to **use the template without the attribution**, you can check out
 [Dribbble](https://dribbble.com/Xiaoying)
 
 [Linkedin](https://uk.linkedin.com/in/xiaoying)
-
-
-##Latest Version
-**v1.5** - 07 Jan 2016
-
-[Changelog](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/)
-
-
-##Features
-
--  Fully Responsive
--  HTML5 + CSS3
--  Built on Bootstrap 3.x
--  600+ FontAwesome icons
--  **LESS** files included
 
 ##Credits
 - [Bootstrap](http://getbootstrap.com/)
